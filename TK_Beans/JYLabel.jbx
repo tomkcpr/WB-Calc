@@ -1,0 +1,9 @@
+[PropertyInfo]
+at,AffineTransform,false,false, , ,false,<default>
+g2d,Graphics2D,false,false, , ,false,<default>
+label,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,19 @@
+[PropertyInfo]
+ampPropertyData,TK_JTextSlider.PropertyData,false,false, , ,false,<default>
+ampVoltageTK_JTextSlider,TK_JTextSlider,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+bridgePropertyData,TK_JTextSlider.PropertyData,false,false, , ,false,<default>
+bridgeTypeSelectionJPanel,BridgeTypeSelectionJPanel,false,false, , ,false,<default>
+bridgeVoltageTK_JTextSlider,TK_JTextSlider,false,false, , ,false,<default>
+DARK_GREEN,Color,false,false, , ,false,<default>
+dataArbitrate,DataArbitrate,false,false, , ,true,<default>
+formatter,NumberFormat,false,false, , ,false,<default>
+rtdBridgeGridBagLayout,GridBagLayout,false,false, , ,false,<default>
+rtdProperties,RTDPropertiesJPanel,false,false, , ,false,<default>
+statusBoxJLabel,JLabel,false,false, , ,false,<default>
+userModified,boolean,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,22 @@
+[PropertyInfo]
+acceptJButton,JButton,false,false, , ,false,<default>
+buttonJPanel,JPanel,false,false, , ,false,<default>
+calcStatusJLabel,JLabel,false,false, , ,false,<default>
+calculateJButton,JButton,false,false, , ,false,<default>
+clearJButton,JButton,false,false, , ,false,<default>
+eventListenerList,EventListenerList,false,false, , ,false,<default>
+graphJButton,JButton,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout2,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout3,GridBagLayout,false,false, , ,false,<default>
+imageBorder,Border,false,false, , ,false,<default>
+imageJPanel,JPanel,false,false, , ,false,<default>
+statusTitledBorder,TitledBorder,false,false, , ,false,<default>
+WBCalculator,WB_Calculator,false,false, , ,true,<default>
+wbCircuitCalculator,WB_Calculator,false,false, , ,false,<default>
+whiteButtonBorder,Border,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

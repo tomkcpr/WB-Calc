@@ -1,0 +1,43 @@
+[PropertyInfo]
+baseGridBagLayout,GridBagLayout,false,false, , ,false,<default>
+bridgePowerJPanel,JPanel,false,false, , ,false,<default>
+eventListenerList,EventListenerList,false,false, , ,false,<default>
+gageResistance,int,false,false, , ,true,<default>
+gageResistanceBorderLayout,BorderLayout,false,false, , ,false,<default>
+gageResistanceJPanel,JPanel,false,false, , ,false,<default>
+gageRJComboBox,JComboBox,false,false, , ,false,<default>
+gageRTitledBorder,TitledBorder,false,false, , ,false,<default>
+gageText,String,false,false, , ,false,<default>
+mainText,String,false,false, , ,false,<default>
+mainTitledBorder,TitledBorder,false,false, , ,false,<default>
+MAX_POWER,int,false,false, , ,false,<default>
+MAX_STEPSIZE,int,false,false, , ,false,<default>
+MAX_WEIGHT,int,false,false, , ,false,<default>
+maxGageLoadJTextField,JTextField,false,false, , ,false,<default>
+maxPower,int,false,false, , ,true,<default>
+maxPowerBorderLayout,BorderLayout,false,false, , ,false,<default>
+maxPowerJTextField,JTextField,false,false, , ,false,<default>
+maxPowerTitledBorder,TitledBorder,false,false, , ,false,<default>
+powerInputVerifier,IntegerTextFieldVerifier,false,false, , ,false,<default>
+powerText,String,false,false, , ,false,<default>
+stepSize,int,false,false, , ,true,<default>
+stepSizeBorderLayout,BorderLayout,false,false, , ,false,<default>
+stepSizeJPanel,JPanel,false,false, , ,false,<default>
+stepSizeJTextField,JTextField,false,false, , ,false,<default>
+stepSizeText,String,false,false, , ,false,<default>
+stepSizeTitledBorder,TitledBorder,false,false, , ,false,<default>
+stepSizeVerifier,IntegerTextFieldVerifier,false,false, , ,false,<default>
+verifyPower,VerifyInteger,false,false, , ,false,<default>
+verifyStepSize,VerifyInteger,false,false, , ,false,<default>
+verifyWeight,VerifyInteger,false,false, , ,false,<default>
+weight,int,false,false, , ,true,<default>
+weightBorderLayout,BorderLayout,false,false, , ,false,<default>
+weightInputVerifier,IntegerTextFieldVerifier,false,false, , ,false,<default>
+weightJPanel,JPanel,false,false, , ,false,<default>
+weightText,String,false,false, , ,false,<default>
+weightTitledBorder,TitledBorder,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

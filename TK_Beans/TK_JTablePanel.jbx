@@ -1,0 +1,31 @@
+[PropertyInfo]
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+calcResultsJPanel,JPanel,false,false, , ,false,<default>
+circuitComponentResultsTitledBorder,TitledBorder,false,false, , ,false,<default>
+circuitTableDataJPanel,JPanel,false,false, , ,false,<default>
+circuitTableDataJScrollPane,JScrollPane,false,false, , ,false,<default>
+circuitTableDataJTable,JTable,false,false, , ,false,<default>
+circuitTableDataTitledBorder,TitledBorder,false,false, , ,false,<default>
+feedbackResistor,double,false,false, , ,true,<default>
+feedbackResistorBorder,Border,false,false, , ,false,<default>
+feedBackResistorJLabel,JLabel,false,false, , ,false,<default>
+feedBackResistorNameBorder,Border,false,false, , ,false,<default>
+feedBackTextJLabel,JLabel,false,false, , ,false,<default>
+finalTableData,Object[][],false,false, , ,false,<default>
+finalTableHeadings,Object[],false,false, , ,false,<default>
+formatter,NumberFormat,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout2,GridBagLayout,false,false, , ,false,<default>
+leftFillJPanel,JPanel,false,false, , ,false,<default>
+powerBorder,Border,false,false, , ,false,<default>
+powerDissipation,double,false,false, , ,true,<default>
+powerDissipationJLabel,JLabel,false,false, , ,false,<default>
+powerNameBorder,Border,false,false, , ,false,<default>
+powerTextJLabel,JLabel,false,false, , ,false,<default>
+tableData,Object[][],false,false, , ,true,<default>
+tableHeadings,Object[],false,false, , ,true,<default>
+[IconNames]
+
+
+
+

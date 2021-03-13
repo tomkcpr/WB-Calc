@@ -1,0 +1,46 @@
+[PropertyInfo]
+amplifierVoltageOUT,double,false,false, , ,true,<default>
+amplifierVoltageOutput,double,false,false, , ,false,<default>
+bridgeR1,int,false,false, , ,true,<default>
+bridgeR2,int,false,false, , ,true,<default>
+bridgeR3,int,false,false, , ,true,<default>
+bridgeR4,int,false,false, , ,true,<default>
+bridgeResistance,int,false,false, , ,true,<default>
+bridgeVoltageIN,double,false,false, , ,true,<default>
+bridgeVoltageInput,double,false,false, , ,false,<default>
+eventListenerList,EventListenerList,false,false, , ,false,<default>
+FOUR,int,false,false, , ,false,<default>
+highTemperature,int,false,false, , ,true,<default>
+lowTemperature,int,false,false, , ,true,<default>
+MAX_AMPLIFIER_VOLTAGE_OUT,double,false,false, , ,true,<default>
+MAX_AMPLIFIER_VOLTAGE_OUT,int,false,false, , ,true,<default>
+MAX_BRIDGE_VOLTAGE_INPUT,double,false,false, , ,true,<default>
+MAX_HIGH_TEMPERATURE,int,false,false, , ,true,<default>
+MAX_LOW_TEMPERATURE,int,false,false, , ,true,<default>
+MAX_POWER,int,false,false, , ,true,<default>
+MAX_STEPSIZE,double,false,false, , ,true,<default>
+MAX_STEPSIZE,int,false,false, , ,true,<default>
+MAX_TEMPERATURE_COEFFICIENT,double,false,false, , ,true,<default>
+MAX_VOLTAGE_INPUT,double,false,false, , ,true,<default>
+MIN_STEPSIZE,double,false,false, , ,true,<default>
+MIN_STEPSIZE,int,false,false, , ,true,<default>
+MIN_TEMPERATURE_COEFFICIENT,double,false,false, , ,true,<default>
+mutated,boolean,false,false, , ,false,<default>
+power,int,false,false, , ,true,<default>
+R1,int,false,false, , ,false,<default>
+R2,int,false,false, , ,false,<default>
+R3,int,false,false, , ,false,<default>
+R4,int,false,false, , ,false,<default>
+RTDNumber,int,false,false, , ,true,<default>
+stepSize,int,false,false, , ,true,<default>
+temperatureCoefficient,double,false,false, , ,true,<default>
+temperatureHigh,int,false,false, , ,true,<default>
+temperatureLow,int,false,false, , ,true,<default>
+tHigh,int,false,false, , ,false,<default>
+tLow,int,false,false, , ,false,<default>
+TWO,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

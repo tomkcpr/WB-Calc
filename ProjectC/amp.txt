@@ -1,0 +1,6 @@
+Difference Amplifier is used to amplify Wheatstone Bridge output signal to desired level in  Weight Scale Simulator. The difference amplifier subsystem is used to compare two input signals. When the two input signals are the same, the output signal will remain steady at half the supply voltage. The output signal will go above or below this steady voltage when one input signal is greater than the other.The output signal is amplified relative to a reference signal, which is fixed at half the power supply voltage.The difference amplifier circuit uses an operational amplifier, or opamp, to subtract the input signals.Operational amplifiers have two inputs, an inverting input ('-') and a non-inverting input ('+'). The amount of amplification, or gain, can be varied by changing Rf and Rin, where Rf represents the feedback resistance and Rin represents input resistance. From this the voltage of the output signal can be calculated: Vout = Rf/Rin*(Va-Vb)
+
+
+
+
+

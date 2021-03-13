@@ -1,0 +1,51 @@
+[PropertyInfo]
+alpha,double,false,false, , ,false,<default>
+alphaJPanel,JPanel,false,false, , ,false,<default>
+alphaJTextField,JTextField,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+border2,Border,false,false, , ,false,<default>
+border3,Border,false,false, , ,false,<default>
+border4,Border,false,false, , ,false,<default>
+border5,Border,false,false, , ,false,<default>
+border6,Border,false,false, , ,false,<default>
+border7,Border,false,false, , ,false,<default>
+border8,Border,false,false, , ,false,<default>
+border9,Border,false,false, , ,false,<default>
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+borderLayout2,BorderLayout,false,false, , ,false,<default>
+borderLayout3,BorderLayout,false,false, , ,false,<default>
+borderLayout4,BorderLayout,false,false, , ,false,<default>
+borderLayout6,BorderLayout,false,false, , ,false,<default>
+bottomInnerJPanel,JPanel,false,false, , ,false,<default>
+graphPoints,int,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout2,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout3,GridBagLayout,false,false, , ,false,<default>
+maxPowerJPanel,JPanel,false,false, , ,false,<default>
+maxPowerJTextField,JTextField,false,false, , ,false,<default>
+plotPointsJSlider,JSlider,false,false, , ,false,<default>
+power,int,false,false, , ,false,<default>
+resistanceJComboBox,JComboBox,false,false, , ,false,<default>
+resistanceJPanel,JPanel,false,false, , ,false,<default>
+resistor,int,false,false, , ,false,<default>
+sliderStatusJLabel,JLabel,false,false, , ,false,<default>
+tHigh,int,false,false, , ,false,<default>
+tHighJPanel,JPanel,false,false, , ,false,<default>
+tHighJTextField,JTextField,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+titledBorder2,TitledBorder,false,false, , ,false,<default>
+titledBorder3,TitledBorder,false,false, , ,false,<default>
+titledBorder4,TitledBorder,false,false, , ,false,<default>
+titledBorder5,TitledBorder,false,false, , ,false,<default>
+titledBorder6,TitledBorder,false,false, , ,false,<default>
+titledBorder7,TitledBorder,false,false, , ,false,<default>
+titledBorder8,TitledBorder,false,false, , ,false,<default>
+tLow,int,false,false, , ,false,<default>
+tLowJPanel,JPanel,false,false, , ,false,<default>
+tLowJTextField,JTextField,false,false, , ,false,<default>
+topInnerJPanel,JPanel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

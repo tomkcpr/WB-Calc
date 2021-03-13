@@ -1,0 +1,75 @@
+[PropertyInfo]
+a,double,false,false, , ,false,<default>
+AmplifierRate,double,false,false, , ,false,<default>
+amplifierVoltageOutput,double,false,false, , ,false,<default>
+ampVoltageOUT,double,false,false, , ,true,<default>
+bridgeVoltageIN,double,false,false, , ,true,<default>
+bridgeVoltageInput,double,false,false, , ,true,<default>
+calculateEventListeners,EventListenerList,false,false, , ,false,<default>
+CircuitDataJTable,JTable,false,false, , ,false,<default>
+circuitPower,double,false,false, , ,true,<default>
+CircuitPower,double,false,false, , ,false,<default>
+circuitTableData,Object[][],false,false, , ,false,<default>
+circuitTableHeader,Object[],false,false, , ,false,<default>
+circuitTableModel,DefaultTableModel,false,false, , ,false,<default>
+feedBackResistor,double,false,false, , ,true,<default>
+feedbackResistor,double,false,false, , ,false,<default>
+formatter,NumberFormat,false,false, , ,false,<default>
+gageSelection,int,false,false, , ,true,<default>
+GageSelection,int,false,false, , ,false,<default>
+gr2,TwoGages,false,false, , ,false,<default>
+gr4,FourGages,false,false, , ,false,<default>
+headers,Object[],false,false, , ,true,<default>
+i,int,false,false, , ,false,<default>
+IntStepSum,int,false,false, , ,false,<default>
+power,int,false,false, , ,true,<default>
+R1,double,false,false, , ,false,<default>
+R1Amp,double,false,false, , ,false,<default>
+R2,double,false,false, , ,false,<default>
+R2Amp,double,false,false, , ,false,<default>
+R3,double,false,false, , ,false,<default>
+R4,double,false,false, , ,false,<default>
+resistance,double,false,false, , ,true,<default>
+resistance,int,false,false, , ,true,<default>
+resistanceArray,Object,false,false, , ,true,<default>
+ResistanceIncreaseRate,double,false,false, , ,false,<default>
+RTDAlpha,double,false,false, , ,true,<default>
+RTDBridgeVoltageIN,double,false,false, , ,true,<default>
+RTDbridgeVoltageInput,double,false,false, , ,false,<default>
+RTDGageSelection,int,false,false, , ,true,<default>
+RTDR1,double,false,false, , ,false,<default>
+RTDR2,double,false,false, , ,false,<default>
+RTDR3,double,false,false, , ,false,<default>
+RTDR4,double,false,false, , ,false,<default>
+RTDResistance,double,false,false, , ,true,<default>
+RTDStepSize,int,false,false, , ,true,<default>
+rtdTableHeader,Object[],false,false, , ,true,<default>
+RTDVoltageBridgeOut,Object,false,false, , ,true,<default>
+Step,double,false,false, , ,false,<default>
+stepSize,int,false,false, , ,true,<default>
+StepSize,int,false,false, , ,false,<default>
+StepSum,double,false,false, , ,false,<default>
+strainGageTableHeader,Object[],false,false, , ,false,<default>
+tableData,Object[][],false,false, , ,true,<default>
+tableHeader,Object[],false,false, , ,true,<default>
+tableTitle,String,false,false, , ,false,<default>
+title,String,false,false, , ,true,<default>
+tmp_high,double,false,false, , ,false,<default>
+tmp_inc,double[],false,false, , ,false,<default>
+tmp_low,double,false,false, , ,false,<default>
+tmpHigh,double,false,false, , ,true,<default>
+tmpHigh,int,false,false, , ,true,<default>
+tmpInc,Object,false,false, , ,true,<default>
+tmpLow,double,false,false, , ,true,<default>
+tmpLow,int,false,false, , ,true,<default>
+VoltageAmpOut,double[],false,false, , ,false,<default>
+VoltageBridgeOut,double[],false,false, , ,false,<default>
+voltageIN,double,false,false, , ,true,<default>
+voltageOutput,double,false,false, , ,true,<default>
+weight,int,false,false, , ,true,<default>
+Weight,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
